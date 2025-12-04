@@ -70,7 +70,7 @@ The full implementation is provided in a **Jupyter Notebook**.
 | File                                          | Description                                                                 |
 | --------------------------------------------- | --------------------------------------------------------------------------- |
 | `Credit_Card_Fraud_Detection_using_ANN.ipynb` | Complete ANN model: preprocessing, training, evaluation, and visualizations |
-| `creditcard.csv`                                 | Credit card transaction dataset used for training and testing               |
+| `creditcard.csv`                                 | Credit card transaction dataset used for training and testing, kaggle dataset link: https://www.kaggle.com/datasets/arockiaselciaa/creditcardcsv <br>You can download the dataset from here|
 | `README.md`                                   | Documentation for the project                                               |
 
 ---
