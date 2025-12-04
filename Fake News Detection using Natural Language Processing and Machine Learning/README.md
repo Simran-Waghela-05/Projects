@@ -32,7 +32,13 @@ Fake-News-Detection/
 ├── dataset:(True.csv/Fake.csv)    # CSV files
 └── README.md
 ```
+---
+This project uses the Fake and Real News Dataset from Kaggle, which contains two separate CSV files:
 
+- **True.csv** – contains legitimate news articles  
+- **Fake.csv** – contains fabricated or misleading news content
+<br>Kaggle dataset link: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+---
 ---
 
 ## 🧹 **Data Preprocessing**
