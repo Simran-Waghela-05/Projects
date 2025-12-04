@@ -111,7 +111,7 @@ The features include:
 2. Install dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
 3. Open the notebook:
