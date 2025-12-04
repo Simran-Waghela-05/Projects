@@ -62,6 +62,7 @@ Built to identify **why customers leave** and how the company can **improve rete
 
 * `Customer_Churn_Retention.pbix` → Interactive dashboard
 * `Customer_Churn_Retention_Report.pdf` → Dashboard snapshots & insights
+*  `02-Churn-Dataset` → Dataset used (downloaded from kaggle)
 * `README.md` → Project documentation
 
 ---
