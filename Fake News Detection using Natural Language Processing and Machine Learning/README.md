@@ -84,7 +84,7 @@ The notebook shows detailed evaluation metrics, including:
 * This helps identify the best model configuration while reducing overfitting and improving generalization.
 ---
 
-## 📈 **Example Workflow**
+## ⚙️ **Project Workflow**
 
 1. Load training dataset
 2. Clean and preprocess text
